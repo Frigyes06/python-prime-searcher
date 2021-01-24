@@ -38,3 +38,4 @@ if __name__ == '__main__':
         # print ("Index: " + str(INDEX)) debug command
     else:
         print ("A " + str(answer) + ". prímszám a(z) " + str(INDEX))
+        input("Nyomj entert a kilépéshez!")
